@@ -49,6 +49,6 @@ void affiche(personne *etudiant[],int N){
     personne *etudiant[N];
     printf("enter la liste des etudiants ");
     lire(etudiant,N);
-
+    affiche(personn *etudiant,N);
 
 }
